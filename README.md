@@ -1,10 +1,16 @@
 CONTROLS:
-UP_ARROW    >>  rotate
-DOWN_ARROW  >>  soft drop
-LEFT_ARROW  >>  left
-RIGHT_ARROW >>  right
-SPACE       >>  hard drop
-SHIFT       >>  hold tetrimino
+
+  UP_ARROW    >>  rotate
+
+  DOWN_ARROW  >>  soft drop
+
+  LEFT_ARROW  >>  left
+
+  RIGHT_ARROW >>  right
+
+  SPACE       >>  hard drop
+
+  SHIFT       >>  hold tetrimino
 
 
 
